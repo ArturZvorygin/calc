@@ -1,0 +1,11 @@
+.Footer {
+    
+    background-color: rgb(0, 173, 58);
+    height: 200px;
+}
+
+.Footer p {
+    
+    color: white;
+    text-align: center;
+}
