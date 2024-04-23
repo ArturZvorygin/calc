@@ -4,8 +4,8 @@ import { useState, useEffect } from "react";
 
 
 import Footer from "../components/Footer";
-import './Calc.css'
-import { parse } from 'mathjs'
+import './InterfaceCalc.css'
+import { parse } from 'mathjs';
 
 import React from "react";
 import { useParams } from "react-router-dom";
